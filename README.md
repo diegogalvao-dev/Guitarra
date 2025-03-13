@@ -1,4 +1,4 @@
-# faixas2025
+# quitarra
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
 
